@@ -10,6 +10,7 @@
 
     <!-- Menu Superior -->
     <nav>
+      <img src="img/logo.png" alt="Eliane Cabelos logo" width="400px" height="140px">
       <ul>
         <li><a href="index.php">Home</a></li>
         <li><a href="galeria.php">Galeria</a></li>
