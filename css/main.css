@@ -1,19 +1,27 @@
 body {
-  background-color: #666;
+  background-color: #333;
+  margin: 0px;
+  padding: 0px;
 }
 
 nav {
   width: 100%;
+  position: fixed;
+  top: 0;
+  background-color: #666
 }
 
 nav ul {
   list-style: none;
   float: right;
+  display: flex;
+  align-self: center;
 }
 
 nav li {
   display: inline;
   padding: 2em;
+  font-size: 170%;
 }
 
 nav li a {
