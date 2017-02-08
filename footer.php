@@ -1,3 +1,3 @@
-    <footer>Rleite Web Designer</footer>
+    <footer>RLeite Web Designer</footer>
   </body>
 </html>
