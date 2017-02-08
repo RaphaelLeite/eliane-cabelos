@@ -22,11 +22,17 @@ nav ul {
 
 nav li {
   display: inline;
-  padding: 2em;
   font-size: 170%;
 }
 
 nav li a {
   text-decoration: none;
   color: #FFF;
+  padding: 1.25em;
+}
+
+nav li a:hover {
+  background-color: #555;
+  border-radius: 0.25em;
+  padding: 1.25em;
 }
