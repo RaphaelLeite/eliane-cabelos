@@ -2,6 +2,7 @@ body {
   background-color: #333;
   margin: 0px;
   padding: 0px;
+  color: #FFF;
 }
 
 nav {
@@ -35,4 +36,14 @@ nav li a:hover {
   background-color: #555;
   border-radius: 0.25em;
   padding: 1.25em;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  padding: 1em;
+  font-family: 'Playfair Display', serif;
+  background-color: #666;
 }
