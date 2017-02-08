@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>Eliane Cabelos</title>
 
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700" rel="stylesheet">
     <link rel="stylesheet" href="css/main.css">
   </head>
   <body>
