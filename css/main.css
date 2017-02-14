@@ -40,21 +40,20 @@ nav li a:hover {
   padding: 1.25em;
 }
 
-div conteudo {
-  background-color: #555;
-}
-
 .bloco-conteudo {
-  display: block;
+  display: flex;
+  align-items: center;
+  background-color: #555;
+  margin: 20px;
 }
 
 .imagem-conteudo {
-  height: 100px;
+  height: 200px;
   width: 10%;
 }
 
 .texto-conteudo {
-  height: 100px;
+  height: 200px;
   width: 80%;
 }
 
