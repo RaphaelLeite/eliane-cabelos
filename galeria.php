@@ -1,71 +1,54 @@
 <?php include("header.php") ?>
 
-<p>sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkja
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjass
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
+<div class="galeria-conteudo">
+  <div class="imagem">
 
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
+  </div>
+  <div class="imagem">
 
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
+  </div>
+  <div class="imagem">
 
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
+  </div>
+  <div class="imagem">
 
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-  sfldsahflkhdsalkjfhslkdjhfkljasdhjkflhsdakljfhkjlasdhfkjlhsadkjlfhsdkljhflkjas
-</p>
+  </div>
+  <div class="imagem">
+
+  </div>
+  <div class="imagem">
+
+  </div>
+  <div class="imagem">
+
+  </div>
+  <div class="imagem">
+
+  </div>
+  <div class="imagem">
+
+  </div>
+  <div class="imagem">
+
+  </div>
+  <div class="imagem">
+
+  </div>
+  <div class="imagem">
+
+  </div>
+  <div class="imagem">
+
+  </div>
+  <div class="imagem">
+
+  </div>
+  <div class="imagem">
+
+  </div>
+  <div class="imagem">
+
+  </div>
+</div>
 
 <?php include("footer.php") ?>
