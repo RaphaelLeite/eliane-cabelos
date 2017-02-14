@@ -40,6 +40,10 @@ nav li a:hover {
   padding: 1.25em;
 }
 
+div conteudo {
+  background-color: #555;
+}
+
 footer {
   width: 100%;
   text-align: center;
