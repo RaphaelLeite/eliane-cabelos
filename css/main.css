@@ -81,6 +81,14 @@ nav li a:hover {
   margin: 20px;
 }
 
+.formulario-box {
+  display: flex;
+}
+
+.formulario {
+  background-color: #555;
+}
+
 footer {
   width: 100%;
   text-align: center;
