@@ -4,7 +4,7 @@
   <form class="formulario" action="" method="post">
     <table>
       <tr>
-        <td>Nome</td>
+        <td class="label">Nome</td>
       </tr>
       <tr>
         <td><input type="text" name="nome" placeholder="Digite seu nome aqui:"></td>
@@ -13,7 +13,7 @@
 
       </tr>
       <tr>
-        <td>Email</td>
+        <td class="label">Email</td>
       </tr>
       <tr>
         <td><input type="text" name="email" placeholder="Digite seu nome aqui:"></td>
@@ -22,7 +22,7 @@
 
       </tr>
       <tr>
-        <td>Mensagem</td>
+        <td class="label">Mensagem</td>
       </tr>
       <tr>
         <td><textarea name="mensagem" rows="8"></textarea></td>
