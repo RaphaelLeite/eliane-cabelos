@@ -44,6 +44,10 @@ div conteudo {
   background-color: #555;
 }
 
+div conteudo imagem-conteudo {
+  height: 100px;
+}
+
 footer {
   width: 100%;
   text-align: center;
