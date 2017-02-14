@@ -93,6 +93,10 @@ nav li a:hover {
   width: 50%;
 }
 
+.space {
+  padding-left: 20px;
+}
+
 table {
   width: 100%;
 }

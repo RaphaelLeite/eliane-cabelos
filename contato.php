@@ -9,7 +9,7 @@
       <tr>
         <td><input type="text" name="nome" placeholder="Digite seu nome aqui:"></td>
       </tr>
-      <tr>
+      <tr class="space">
 
       </tr>
       <tr>
@@ -18,8 +18,8 @@
       <tr>
         <td><input type="text" name="email" placeholder="Digite seu nome aqui:"></td>
       </tr>
-      <tr>
-        
+      <tr class="space">
+
       </tr>
       <tr>
         <td>Mensagem</td>
