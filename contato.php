@@ -1,7 +1,7 @@
 <?php include("header.php") ?>
 
 <div class="formulario-box">
-  <form class="formulario" action="contact-process.php" method="post">
+  <form class="formulario" action="" method="post">
     <table>
       <tr>
         <td>Nome</td>

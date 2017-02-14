@@ -83,7 +83,6 @@ nav li a:hover {
 
 .formulario-box {
   display: flex;
-  width: 70%;
   justify-content: space-around;
 }
 
@@ -91,7 +90,6 @@ nav li a:hover {
   background-color: #555;
   margin: 20px;
   padding: 20px;
-  width: 100%;
 }
 
 footer {
