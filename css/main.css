@@ -76,8 +76,9 @@ nav li a:hover {
 
 .imagem {
   background-color: yellow;
-  width: 20%;
+  width: 30%;
   height: 200px;
+  margin: 20px;
 }
 
 footer {
