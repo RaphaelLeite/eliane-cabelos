@@ -29,6 +29,9 @@
       </tr>
     </table>
   </form>
+  <div class="foto-contato">
+
+  </div>
 </div>
 
 <?php include("footer.php") ?>

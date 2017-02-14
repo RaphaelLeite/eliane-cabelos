@@ -14,10 +14,10 @@
     </div>
   </div>
   <div class="bloco-conteudo">
-    <div class="icon-conteudo">
+    <div class="texto-conteudo">
 
     </div>
-    <div class="texto-conteudo">
+    <div class="icon-conteudo">
 
     </div>
   </div>
