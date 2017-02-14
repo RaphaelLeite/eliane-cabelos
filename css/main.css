@@ -44,6 +44,10 @@ div conteudo {
   background-color: #555;
 }
 
+.bloco-conteudo {
+  display: block;
+}
+
 .imagem-conteudo {
   height: 100px;
   width: 10%;

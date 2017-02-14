@@ -5,23 +5,29 @@
 </div>
 
 <div class="conteudo">
-  <div class="imagem-conteudo">
+  <div class="bloco-conteudo">
+    <div class="imagem-conteudo">
 
+    </div>
+    <div class="texto-conteudo">
+
+    </div>
   </div>
-  <div class="texto-conteudo">
+  <div class="bloco-conteudo">
+    <div class="imagem-conteudo">
 
+    </div>
+    <div class="texto-conteudo">
+
+    </div>
   </div>
-  <div class="imagem-conteudo">
+  <div class="bloco-conteudo">
+    <div class="imagem-conteudo">
 
-  </div>
-  <div class="texto-conteudo">
+    </div>
+    <div class="texto-conteudo">
 
-  </div>
-  <div class="imagem-conteudo">
-
-  </div>
-  <div class="texto-conteudo">
-
+    </div>
   </div>
 </div>
 
