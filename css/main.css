@@ -46,6 +46,12 @@ div conteudo {
 
 div conteudo .imagem-conteudo {
   height: 100px;
+  width: 10%;
+}
+
+div conteudo .texto-conteudo {
+  height: 100px;
+  width: 80%;
 }
 
 footer {
