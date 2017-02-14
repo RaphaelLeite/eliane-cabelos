@@ -6,6 +6,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700" rel="stylesheet">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
   </head>
   <body>
 
