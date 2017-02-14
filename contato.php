@@ -19,7 +19,7 @@
         <td>Mensagem</td>
       </tr>
       <tr>
-        <td><textarea name="mensagem" rows="8" cols="80"></textarea></td>
+        <td><textarea name="mensagem" rows="8"></textarea></td>
       </tr>
     </table>
   </form>
