@@ -99,6 +99,8 @@ nav li a:hover {
 
 input {
   border-radius: 5px;
+  height: 2rem;
+  width: 80%;
 }
 
 table {
