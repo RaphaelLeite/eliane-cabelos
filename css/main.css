@@ -92,6 +92,14 @@ nav li a:hover {
   padding: 20px;
 }
 
+table {
+  width: 100%;
+}
+
+textarea {
+  width: 100%
+}
+
 footer {
   width: 100%;
   text-align: center;
