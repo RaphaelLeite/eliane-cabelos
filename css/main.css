@@ -51,16 +51,19 @@ nav li a:hover {
   align-items: center;
   background-color: #555;
   margin: 20px;
+  justify-content: space-between;
 }
 
-.imagem-conteudo {
+.icon-conteudo {
   height: 200px;
-  width: 10%;
+  width: 20%;
+  background-color: cyan;
 }
 
 .texto-conteudo {
   height: 200px;
   width: 80%;
+  background-color: yellow;
 }
 
 footer {

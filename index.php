@@ -6,7 +6,7 @@
 
 <div class="conteudo">
   <div class="bloco-conteudo">
-    <div class="imagem-conteudo">
+    <div class="icon-conteudo">
 
     </div>
     <div class="texto-conteudo">
@@ -14,7 +14,7 @@
     </div>
   </div>
   <div class="bloco-conteudo">
-    <div class="imagem-conteudo">
+    <div class="icon-conteudo">
 
     </div>
     <div class="texto-conteudo">
@@ -22,7 +22,7 @@
     </div>
   </div>
   <div class="bloco-conteudo">
-    <div class="imagem-conteudo">
+    <div class="icon-conteudo">
 
     </div>
     <div class="texto-conteudo">
