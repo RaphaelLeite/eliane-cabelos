@@ -37,15 +37,6 @@
   <div class="imagem">
 
   </div>
-  <div class="imagem">
-
-  </div>
-  <div class="imagem">
-
-  </div>
-  <div class="imagem">
-
-  </div>
 </div>
 
 <?php include("footer.php") ?>
