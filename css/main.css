@@ -44,12 +44,12 @@ div conteudo {
   background-color: #555;
 }
 
-div conteudo .imagem-conteudo {
+.imagem-conteudo {
   height: 100px;
   width: 10%;
 }
 
-div conteudo .texto-conteudo {
+.texto-conteudo {
   height: 100px;
   width: 80%;
 }
