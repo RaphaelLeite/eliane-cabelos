@@ -44,7 +44,7 @@ div conteudo {
   background-color: #555;
 }
 
-div conteudo imagem-conteudo {
+div conteudo .imagem-conteudo {
   height: 100px;
 }
 
