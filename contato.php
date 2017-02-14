@@ -10,10 +10,16 @@
         <td><input type="text" name="nome" placeholder="Digite seu nome aqui:"></td>
       </tr>
       <tr>
+
+      </tr>
+      <tr>
         <td>Email</td>
       </tr>
       <tr>
         <td><input type="text" name="email" placeholder="Digite seu nome aqui:"></td>
+      </tr>
+      <tr>
+        
       </tr>
       <tr>
         <td>Mensagem</td>
