@@ -83,17 +83,14 @@ nav li a:hover {
 
 .formulario-box {
   display: flex;
-  justify-content: space-around;
   width: 70%;
+  justify-content: space-around;
 }
 
 .formulario {
   background-color: #555;
   margin: 20px;
   padding: 20px;
-}
-
-textarea {
   width: 100%;
 }
 
